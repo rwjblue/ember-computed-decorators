@@ -29,7 +29,7 @@
   "resolutions": {
     "**/ember-component-css": "^0.7.4",
     "**/ember-data": "~3.10.0",
-    "**/tough-cookie": "~2.4.0"
+    "**/tough-cookie": "~2.5.0"
   },
   "engines": {
     "node": ">= 8.*"
