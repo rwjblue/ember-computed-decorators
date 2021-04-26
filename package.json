@@ -23,7 +23,7 @@
     "eslint": "^5.0.0",
     "eslint-plugin-ember": "^7.0.0",
     "eslint-plugin-node": "^11.0.0",
-    "lerna": "^3.0.0",
+    "lerna": "^4.0.0",
     "sass": "^1.22.3"
   },
   "resolutions": {
