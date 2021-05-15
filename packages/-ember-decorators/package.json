@@ -37,7 +37,7 @@
     "broccoli-funnel": "^2.0.1",
     "broccoli-merge-trees": "^3.0.0",
     "broccoli-source": "^3.0.0",
-    "ember-cli": "~3.11.0",
+    "ember-cli": "~3.26.0",
     "ember-cli-addon-docs": "^0.6.13",
     "ember-cli-addon-docs-esdoc": "^0.2.1",
     "ember-cli-app-version": "^3.0.0",
@@ -66,7 +66,7 @@
     "ember-qunit-assert-helpers": "^0.2.2",
     "ember-resolver": "^7.0.0",
     "ember-root-url": "^0.2.0",
-    "ember-source": "~3.0.0",
+    "ember-source": "~3.27.0",
     "loader.js": "^4.2.3",
     "os": "^0.1.1",
     "typescript": "3.2.4"
