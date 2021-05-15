@@ -30,7 +30,7 @@
     "@types/rsvp": "4.0.3",
     "broccoli-asset-rev": "^3.0.0",
     "ember-ajax": "^5.0.0",
-    "ember-cli": "~3.11.0",
+    "ember-cli": "~3.26.0",
     "ember-cli-dependency-checker": "^3.2.0",
     "ember-cli-htmlbars": "^4.0.0",
     "ember-cli-htmlbars-inline-precompile": "^3.0.0",
@@ -44,7 +44,7 @@
     "ember-load-initializers": "^2.0.0",
     "ember-maybe-import-regenerator": "^0.1.6",
     "ember-resolver": "^7.0.0",
-    "ember-source": "~3.0.0",
+    "ember-source": "~3.27.0",
     "loader.js": "^4.2.3"
   },
   "engines": {
