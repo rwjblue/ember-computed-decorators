@@ -55,7 +55,7 @@
     "ember-native-dom-helpers": "^0.6.0",
     "ember-resolver": "^7.0.0",
     "ember-source": "~3.0.0",
-    "fs-extra": "^8.0.0",
+    "fs-extra": "^10.0.0",
     "loader.js": "^4.2.3",
     "mocha": "^6.0.0"
   },
