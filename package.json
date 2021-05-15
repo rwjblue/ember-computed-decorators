@@ -28,7 +28,7 @@
   },
   "resolutions": {
     "**/ember-component-css": "^0.7.4",
-    "**/ember-data": "~3.10.0",
+    "**/ember-data": "~3.27.0",
     "**/tough-cookie": "~2.4.0"
   },
   "engines": {
