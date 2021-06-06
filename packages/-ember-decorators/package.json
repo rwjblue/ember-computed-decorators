@@ -69,7 +69,7 @@
     "ember-source": "~3.0.0",
     "loader.js": "^4.2.3",
     "os": "^0.1.1",
-    "typescript": "3.2.4"
+    "typescript": "4.3.2"
   },
   "engines": {
     "node": ">= 8.*"
